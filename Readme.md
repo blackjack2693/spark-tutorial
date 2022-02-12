@@ -1,12 +1,13 @@
 Dies ist ein Scala Project, welches bereits alle Apache-Spark (https://spark.apache.org/) Dependencies und Build-Konfigurationen enthält um eine jar Datei zu bauen, welche auf einem Cluster ausgeführt werden kann.
-Für die DBS II Übung müsst ihr den Code aber lediglich lokal bei euch ausführen können. 
+Für die DBS II Übung müsst ihr den Code aber lediglich lokal bei euch ausführen können.
 Dafür müsst ihr folgendes tun:
+
 - Installiert sbt (https://www.scala-sbt.org/)
 - Fügt in eurer IDE ein Scala-Plugin hinzu, sodass ihr Scala-Code kompilieren könnt (im folgenden gehen wir von Intellij als IDE aus: https://www.jetbrains.com/idea/)
 - Ladet das Projekt herunter und öffnet es in der IDE
 - Intellij sollte dieses nun automatisch als ein sbt Project erkennen (die Initialisierung, zum Beispiel das Indizieren der Dateien kann kurz dauern)
 - Falls Intellij die Dependencies nicht automatisch herunterlädt könnt ihr diese mittels folgender Varianten manuell herunterladen:
-  - Öffnen der Console (alt+F12) und das Kommando *sbt compile*
+  - Öffnen der Console (alt+F12) und das Kommando _sbt compile_
   - Öffnen des SBT-Tabs (rechter Rand des Bildschirms) und clicken auf "Reload all sbt projects"
 - Nun solltet ihr sowohl die Main-Objekte [ScalaIntroduction](src/main/scala/de/hpi/getting_started/ScalaIntroduction.scala), [SparkIntroduction](src/main/scala/de/hpi/getting_started/SparkIntroduction.scala), als auch [DBSIISparkExerciseMain](src/main/scala/de/hpi/dbsII_exercises/DBSIISparkExerciseMain.scala) ausführen können.
 
