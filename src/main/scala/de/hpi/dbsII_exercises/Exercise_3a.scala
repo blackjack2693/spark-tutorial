@@ -16,6 +16,12 @@ class Exercise_3a(spark: SparkSession, changeRecords: Dataset[ChangeRecord]){
    * @return sorted sequence of all table ids
    */
   def execute():Seq[String] = {
-    ???
+    var ids = changeRecords
+      .select($"tableId")
+      .distinct()
+      .orderBy($"tableId".asc)
+      .collect()
+      
+    ids.map(row => row.getString(0))
   }
 }

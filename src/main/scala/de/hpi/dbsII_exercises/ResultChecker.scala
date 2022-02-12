@@ -22,6 +22,9 @@ class ResultChecker(spark:SparkSession) {
       .collect()
       .sorted
     checkForEquality(2,res2.toIndexedSeq.sorted,expected)
+    println(expected)
+    //println(sorted)
+
   }
 
   def checkExercise3Result(res1:  Map[(String, String, Int, Timestamp), Seq[String]], path: String) = {
