@@ -26,7 +26,7 @@ object DBSIISparkExerciseMain extends App{
   val changeRecords = IOHelper.readSparkCSV(spark,pathToData,true)
     .map(r => ChangeRecord.from(r))
     .cache()
-  println(s"Number of records: ${changeRecords.count()}")
+  // println(s"Number of records: ${changeRecords.count()}")
   val res3a = new Exercise_3a(spark,changeRecords).execute()
   val res3b = new Exercise_3b(spark,changeRecords).execute()
   val res3c = new Exercise_3c(spark,changeRecords).execute()

@@ -28018,3 +28018,366 @@ scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: #
 
 2022.02.12 16:44:17 INFO  Closing debug server tcp://0.0.0.0:62610
 2022.02.12 16:44:20 INFO  Canceling debug proxy for [de.hpi.dbsII_exercises.DBSIISparkExerciseMain]
+2022.02.12 16:46:06 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:46:06 INFO  time: compiled spark-tutorial in 0.21s
+2022.02.12 16:46:12 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:46:12 INFO  time: compiled spark-tutorial in 0.22s
+2022.02.12 16:46:28 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:46:28 INFO  time: compiled spark-tutorial in 80ms
+2022.02.12 16:46:53 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:46:53 INFO  time: compiled spark-tutorial in 84ms
+2022.02.12 16:46:55 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:46:56 INFO  time: compiled spark-tutorial in 1.24s
+2022.02.12 16:47:07 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:07 INFO  time: compiled spark-tutorial in 0.11s
+2022.02.12 16:47:09 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:09 INFO  time: compiled spark-tutorial in 0.11s
+2022.02.12 16:47:10 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:10 INFO  time: compiled spark-tutorial in 0.11s
+2022.02.12 16:47:21 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:21 INFO  time: compiled spark-tutorial in 0.13s
+2022.02.12 16:47:23 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:23 INFO  time: compiled spark-tutorial in 89ms
+2022.02.12 16:47:25 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:25 INFO  time: compiled spark-tutorial in 0.1s
+2022.02.12 16:47:28 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:28 INFO  time: compiled spark-tutorial in 96ms
+2022.02.12 16:47:31 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:31 INFO  time: compiled spark-tutorial in 96ms
+2022.02.12 16:47:36 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:36 INFO  time: compiled spark-tutorial in 83ms
+2022.02.12 16:47:40 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:40 INFO  time: compiled spark-tutorial in 0.12s
+2022.02.12 16:47:43 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:43 INFO  time: compiled spark-tutorial in 83ms
+2022.02.12 16:47:46 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:46 INFO  time: compiled spark-tutorial in 94ms
+2022.02.12 16:47:51 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:51 INFO  time: compiled spark-tutorial in 85ms
+2022.02.12 16:47:54 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:47:54 INFO  time: compiled spark-tutorial in 0.16s
+2022.02.12 16:48:02 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:48:02 INFO  time: compiled spark-tutorial in 0.13s
+2022.02.12 16:48:21 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:48:21 INFO  time: compiled spark-tutorial in 0.23s
+2022.02.12 16:48:26 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:48:26 INFO  time: compiled spark-tutorial in 0.23s
+2022.02.12 16:48:47 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:48:47 INFO  time: compiled spark-tutorial in 0.2s
+2022.02.12 16:48:50 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:48:50 INFO  time: compiled spark-tutorial in 0.29s
+2022.02.12 16:48:53 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:48:53 INFO  time: compiled spark-tutorial in 0.28s
+2022.02.12 16:49:02 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:49:02 INFO  time: compiled spark-tutorial in 0.19s
+2022.02.12 16:49:04 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:49:04 INFO  time: compiled spark-tutorial in 81ms
+2022.02.12 16:49:06 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:49:06 INFO  time: compiled spark-tutorial in 0.23s
+2022.02.12 16:49:23 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:49:23 INFO  time: compiled spark-tutorial in 0.12s
+2022.02.12 16:49:29 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:49:29 INFO  time: compiled spark-tutorial in 90ms
+2022.02.12 16:49:47 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:49:47 INFO  time: compiled spark-tutorial in 93ms
+2022.02.12 16:50:43 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:50:43 INFO  time: compiled spark-tutorial in 0.13s
+2022.02.12 16:50:45 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:50:45 INFO  time: compiled spark-tutorial in 86ms
+2022.02.12 16:50:46 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:50:46 INFO  time: compiled spark-tutorial in 0.14s
+2022.02.12 16:51:07 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:51:07 INFO  time: compiled spark-tutorial in 0.39s
+2022.02.12 16:51:20 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:51:20 INFO  time: compiled spark-tutorial in 0.11s
+2022.02.12 16:52:52 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:52:53 INFO  time: compiled spark-tutorial in 1.32s
+2022.02.12 16:52:59 INFO  Deduplicating compilation of spark-tutorial from bsp client 'Metals 0.11.1' (since 43h 6m 32.635s)
+2022.02.12 16:52:59 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/Johann/Documents/GitHub/spark-tutorial/.metals/dap-server.trace.json or /Users/Johann/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2022.02.12 16:53:01 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/Johann/Documents/GitHub/spark-tutorial/.metals/dap-client.trace.json or /Users/Johann/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2022.02.12 16:53:01 INFO  Starting debug proxy for [de.hpi.dbsII_exercises.DBSIISparkExerciseMain]
+2022.02.12 16:53:04 INFO  Trying to attach to remote debuggee VM localhost:62948 .
+2022.02.12 16:53:04 INFO  Attaching to debuggee VM succeeded.
+2022.02.12 16:53:05 ERROR WARNING: An illegal reflective access operation has occurred
+2022.02.12 16:53:05 ERROR WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/Users/Johann/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-unsafe_2.12/3.0.0/spark-unsafe_2.12-3.0.0.jar) to constructor java.nio.DirectByteBuffer(long,int)
+2022.02.12 16:53:05 ERROR WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+2022.02.12 16:53:05 ERROR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+2022.02.12 16:53:05 ERROR WARNING: All illegal access operations will be denied in a future release
+2022.02.12 16:53:05 ERROR Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+2022.02.12 16:53:53 ERROR Exception in thread "main" org.apache.spark.sql.AnalysisException: cannot resolve '`newValues`['size']' due to data type mismatch: argument 2 requires integral type, however, ''size'' is of string type.;;
+2022.02.12 16:53:53 ERROR searching for `#` failed
+scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: #
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definitions(OnDemandSymbolIndex.scala:57)
+	at scala.meta.internal.metals.DestinationProvider.definition(DefinitionProvider.scala:313)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:351)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:371)
+	at scala.meta.internal.metals.DefinitionProvider.fromSymbol(DefinitionProvider.scala:104)
+	at scala.meta.internal.metals.StacktraceAnalyzer.findLocationForSymbol$1(StacktraceAnalyzer.scala:68)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$2(StacktraceAnalyzer.scala:73)
+	at scala.PartialFunction$Unlifted.applyOrElse(PartialFunction.scala:237)
+	at scala.collection.TraversableOnce.collectFirst(TraversableOnce.scala:180)
+	at scala.collection.TraversableOnce.collectFirst$(TraversableOnce.scala:167)
+	at scala.collection.AbstractTraversable.collectFirst(Traversable.scala:108)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$1(StacktraceAnalyzer.scala:73)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.StacktraceAnalyzer.fileLocationFromLine(StacktraceAnalyzer.scala:71)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1(DebugProxy.scala:183)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1$adapted(DebugProxy.scala:160)
+	at scala.meta.internal.metals.debug.ServerAdapter.$anonfun$onReceived$1(ServerAdapter.scala:25)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.ServerAdapter.onReceived(ServerAdapter.scala:18)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToServer$1(DebugProxy.scala:67)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2022.02.12 16:53:53 ERROR 'Filter (newValues#458[size] > 1)
+2022.02.12 16:53:53 ERROR +- Aggregate [tableId#33, attributeName#36, entityId#35, timestamp#34], [tableId#33, attributeName#36, entityId#35, timestamp#34, collect_list(newValue#37, 0, 0) AS newValues#458]
+2022.02.12 16:53:53 ERROR    +- SerializeFromObject [staticinvoke(class org.apache.spark.unsafe.types.UTF8String, StringType, fromString, knownnotnull(assertnotnull(input[0, de.hpi.dbsII_exercises.ChangeRecord, true])).tableID, true, false) AS tableID#33, staticinvoke(class org.apache.spark.sql.catalyst.util.DateTimeUtils$, TimestampType, fromJavaTimestamp, knownnotnull(assertnotnull(input[0, de.hpi.dbsII_exercises.ChangeRecord, true])).timestamp, true, false) AS timestamp#34, knownnotnull(assertnotnull(input[0, de.hpi.dbsII_exercises.ChangeRecord, true])).entityID AS entityID#35, staticinvoke(class org.apache.spark.unsafe.types.UTF8String, StringType, fromString, knownnotnull(assertnotnull(input[0, de.hpi.dbsII_exercises.ChangeRecord, true])).attributeName, true, false) AS attributeName#36, staticinvoke(class org.apache.spark.unsafe.types.UTF8String, StringType, fromString, knownnotnull(assertnotnull(input[0, de.hpi.dbsII_exercises.ChangeRecord, true])).newValue, true, false) AS newValue#37]
+2022.02.12 16:53:53 ERROR searching for `#` failed
+scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: #
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definitions(OnDemandSymbolIndex.scala:57)
+	at scala.meta.internal.metals.DestinationProvider.definition(DefinitionProvider.scala:313)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:351)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:371)
+	at scala.meta.internal.metals.DefinitionProvider.fromSymbol(DefinitionProvider.scala:104)
+	at scala.meta.internal.metals.StacktraceAnalyzer.findLocationForSymbol$1(StacktraceAnalyzer.scala:68)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$2(StacktraceAnalyzer.scala:73)
+	at scala.PartialFunction$Unlifted.applyOrElse(PartialFunction.scala:237)
+	at scala.collection.TraversableOnce.collectFirst(TraversableOnce.scala:180)
+	at scala.collection.TraversableOnce.collectFirst$(TraversableOnce.scala:167)
+	at scala.collection.AbstractTraversable.collectFirst(Traversable.scala:108)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$1(StacktraceAnalyzer.scala:73)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.StacktraceAnalyzer.fileLocationFromLine(StacktraceAnalyzer.scala:71)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1(DebugProxy.scala:183)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1$adapted(DebugProxy.scala:160)
+	at scala.meta.internal.metals.debug.ServerAdapter.$anonfun$onReceived$1(ServerAdapter.scala:25)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.ServerAdapter.onReceived(ServerAdapter.scala:18)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToServer$1(DebugProxy.scala:67)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2022.02.12 16:53:53 ERROR       +- MapElements de.hpi.dbsII_exercises.DBSIISparkExerciseMain$$$Lambda$2384/0x000000080108c040@5ae22651, interface org.apache.spark.sql.Row, [StructField(Dataset_ID,StringType,true), StructField(Timestamp,TimestampType,true), StructField(EntityID,IntegerType,true), StructField(AttributeName,StringType,true), StructField(newValue,StringType,true)], obj#32: de.hpi.dbsII_exercises.ChangeRecord
+2022.02.12 16:53:53 ERROR          +- DeserializeToObject createexternalrow(Dataset_ID#16.toString, staticinvoke(class org.apache.spark.sql.catalyst.util.DateTimeUtils$, ObjectType(class java.sql.Timestamp), toJavaTimestamp, Timestamp#17, true, false), EntityID#18, AttributeName#19.toString, newValue#20.toString, StructField(Dataset_ID,StringType,true), StructField(Timestamp,TimestampType,true), StructField(EntityID,IntegerType,true), StructField(AttributeName,StringType,true), StructField(newValue,StringType,true)), obj#31: org.apache.spark.sql.Row
+2022.02.12 16:53:53 ERROR             +- Relation[Dataset_ID#16,Timestamp#17,EntityID#18,AttributeName#19,newValue#20] csv
+2022.02.12 16:53:53 ERROR searching for `#` failed
+scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: #
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definitions(OnDemandSymbolIndex.scala:57)
+	at scala.meta.internal.metals.DestinationProvider.definition(DefinitionProvider.scala:313)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:351)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:371)
+	at scala.meta.internal.metals.DefinitionProvider.fromSymbol(DefinitionProvider.scala:104)
+	at scala.meta.internal.metals.StacktraceAnalyzer.findLocationForSymbol$1(StacktraceAnalyzer.scala:68)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$2(StacktraceAnalyzer.scala:73)
+	at scala.PartialFunction$Unlifted.applyOrElse(PartialFunction.scala:237)
+	at scala.collection.TraversableOnce.collectFirst(TraversableOnce.scala:180)
+	at scala.collection.TraversableOnce.collectFirst$(TraversableOnce.scala:167)
+	at scala.collection.AbstractTraversable.collectFirst(Traversable.scala:108)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$1(StacktraceAnalyzer.scala:73)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.StacktraceAnalyzer.fileLocationFromLine(StacktraceAnalyzer.scala:71)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1(DebugProxy.scala:183)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1$adapted(DebugProxy.scala:160)
+	at scala.meta.internal.metals.debug.ServerAdapter.$anonfun$onReceived$1(ServerAdapter.scala:25)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.ServerAdapter.onReceived(ServerAdapter.scala:18)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToServer$1(DebugProxy.scala:67)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2022.02.12 16:53:53 ERROR 
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.package$AnalysisErrorAt.failAnalysis(package.scala:42)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis$$anonfun$$nestedInanonfun$checkAnalysis$1$2.applyOrElse(CheckAnalysis.scala:149)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis$$anonfun$$nestedInanonfun$checkAnalysis$1$2.applyOrElse(CheckAnalysis.scala:140)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformUp$2(TreeNode.scala:333)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.CurrentOrigin$.withOrigin(TreeNode.scala:72)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:333)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformUp$1(TreeNode.scala:330)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$mapChildren$1(TreeNode.scala:399)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:237)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:397)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:350)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:330)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.QueryPlan.$anonfun$transformExpressionsUp$1(QueryPlan.scala:106)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.QueryPlan.$anonfun$mapExpressions$1(QueryPlan.scala:118)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.CurrentOrigin$.withOrigin(TreeNode.scala:72)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.QueryPlan.transformExpression$1(QueryPlan.scala:118)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.QueryPlan.recursiveTransform$1(QueryPlan.scala:129)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.QueryPlan.$anonfun$mapExpressions$4(QueryPlan.scala:139)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:237)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.QueryPlan.mapExpressions(QueryPlan.scala:139)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.QueryPlan.transformExpressionsUp(QueryPlan.scala:106)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$1(CheckAnalysis.scala:140)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$1$adapted(CheckAnalysis.scala:92)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:177)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:92)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:89)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:130)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:156)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:201)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:153)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:68)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:111)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:133)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:763)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:133)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:68)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:66)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:58)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.Dataset.<init>(Dataset.scala:211)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.Dataset.<init>(Dataset.scala:217)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.Dataset$.apply(Dataset.scala:76)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.Dataset.withTypedPlan(Dataset.scala:3649)
+2022.02.12 16:53:53 ERROR 	at org.apache.spark.sql.Dataset.filter(Dataset.scala:1590)
+2022.02.12 16:53:53 ERROR 	at de.hpi.dbsII_exercises.Exercise_3c.execute(Exercise_3c.scala:30)
+2022.02.12 16:53:53 ERROR 	at de.hpi.dbsII_exercises.DBSIISparkExerciseMain$.delayedEndpoint$de$hpi$dbsII_exercises$DBSIISparkExerciseMain$1(DBSIISparkExerciseMain.scala:32)
+2022.02.12 16:53:53 ERROR 	at de.hpi.dbsII_exercises.DBSIISparkExerciseMain$delayedInit$body.apply(DBSIISparkExerciseMain.scala:7)
+2022.02.12 16:53:53 ERROR 	at scala.Function0.apply$mcV$sp(Function0.scala:39)
+2022.02.12 16:53:53 ERROR 	at scala.Function0.apply$mcV$sp$(Function0.scala:39)
+2022.02.12 16:53:53 ERROR 	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+2022.02.12 16:53:53 ERROR 	at scala.App.$anonfun$main$1$adapted(App.scala:80)
+2022.02.12 16:53:53 ERROR searching for `#` failed
+scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: #
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definitions(OnDemandSymbolIndex.scala:57)
+	at scala.meta.internal.metals.DestinationProvider.definition(DefinitionProvider.scala:313)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:351)
+	at scala.meta.internal.metals.DestinationProvider.fromSymbol(DefinitionProvider.scala:371)
+	at scala.meta.internal.metals.DefinitionProvider.fromSymbol(DefinitionProvider.scala:104)
+	at scala.meta.internal.metals.StacktraceAnalyzer.findLocationForSymbol$1(StacktraceAnalyzer.scala:68)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$2(StacktraceAnalyzer.scala:73)
+	at scala.PartialFunction$Unlifted.applyOrElse(PartialFunction.scala:237)
+	at scala.collection.TraversableOnce.collectFirst(TraversableOnce.scala:180)
+	at scala.collection.TraversableOnce.collectFirst$(TraversableOnce.scala:167)
+	at scala.collection.AbstractTraversable.collectFirst(Traversable.scala:108)
+	at scala.meta.internal.metals.StacktraceAnalyzer.$anonfun$fileLocationFromLine$1(StacktraceAnalyzer.scala:73)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.StacktraceAnalyzer.fileLocationFromLine(StacktraceAnalyzer.scala:71)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1(DebugProxy.scala:183)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleServerMessage$1$adapted(DebugProxy.scala:160)
+	at scala.meta.internal.metals.debug.ServerAdapter.$anonfun$onReceived$1(ServerAdapter.scala:25)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.ServerAdapter.onReceived(ServerAdapter.scala:18)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToServer$1(DebugProxy.scala:67)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2022.02.12 16:53:53 ERROR 	at scala.collection.immutable.List.foreach(List.scala:392)
+2022.02.12 16:53:53 ERROR 	at scala.App.main(App.scala:80)
+2022.02.12 16:53:53 ERROR 	at scala.App.main$(App.scala:78)
+2022.02.12 16:53:53 ERROR 	at de.hpi.dbsII_exercises.DBSIISparkExerciseMain$.main(DBSIISparkExerciseMain.scala:7)
+2022.02.12 16:53:53 ERROR 	at de.hpi.dbsII_exercises.DBSIISparkExerciseMain.main(DBSIISparkExerciseMain.scala)
+2022.02.12 16:53:53 INFO  Closing debug server tcp://0.0.0.0:62940
+Feb. 12, 2022 4:53:54 NACHM. org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireError
+SEVERE: java.net.SocketException: Broken pipe (Write failed)
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.net.SocketException: Broken pipe (Write failed)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.debug.SocketEndpoint.consume(SocketEndpoint.scala:22)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.consume(MessageIdAdapter.scala:43)
+	at scala.meta.internal.metals.debug.ServerAdapter.send(ServerAdapter.scala:30)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:138)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:63)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.net.SocketException: Broken pipe (Write failed)
+	at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.base/java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:110)
+	at java.base/java.net.SocketOutputStream.write(SocketOutputStream.java:150)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 21 more
+
+Feb. 12, 2022 4:53:55 NACHM. org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireStreamClosed
+INFO: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:186)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:79)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.ServerAdapter.onReceived(ServerAdapter.scala:18)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToServer$1(DebugProxy.scala:67)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2022.02.12 16:53:55 INFO  Canceling debug proxy for [de.hpi.dbsII_exercises.DBSIISparkExerciseMain]
+2022.02.12 16:54:12 INFO  compiling spark-tutorial (1 scala source)
+2022.02.12 16:54:13 INFO  time: compiled spark-tutorial in 1.67s

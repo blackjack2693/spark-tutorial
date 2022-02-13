@@ -25,13 +25,15 @@ class Exercise_3c(spark: SparkSession, changeRecords: Dataset[ChangeRecord]) {
    */
   def execute():Map[(String,String,Int,Timestamp),Seq[String]] = {
     changeRecords.show()
-    changeRecords.groupBy($"tableId",$"attributeName",$"entityId",$"timestamp")
+    var firstPart = changeRecords.groupBy($"tableId",$"attributeName",$"entityId",$"timestamp")
       .agg(collect_list($"newValue") as "newValues")
       .filter($"newValues.size" > 1)
-      .map(row => (row.getString(0),row.getString(1),row.getInt(2),row.getTimestamp(3)) -> (row.getSeq[String](4)))
       .collect()
-      .toMap
-    
+    firstPart.foreach(println)
+    // var result = firstPart.map(row => Map((row.getString(0),row.getString(1),row.getInt(2),row.getTimestamp(3)) -> (row.getSeq[String](4)))
+    //   .collect()
+    //   .toMap
+    Map()
   }
 
   def collect_list(col: org.apache.spark.sql.Column): org.apache.spark.sql.Column = {
