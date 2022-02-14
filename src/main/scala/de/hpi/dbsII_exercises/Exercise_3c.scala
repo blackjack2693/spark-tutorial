@@ -2,8 +2,9 @@ package de.hpi.dbsII_exercises
 
 import java.sql.Timestamp
 
-import org.apache.spark.sql.{Dataset, SparkSession}
-
+import org.apache.spark.sql.{Dataset, SparkSession, Column}
+import org.apache.spark.sql._
+import org.apache.spark.sql.functions._
 /***
  * Machen Sie einen Datenqualitätscheck: Wir würden annehmen, dass es in jeder Tabelle zujedem Zeitpunkt für jedes Feld
  * (identifiziert durch die Kombination aus entityID und attributeName) nur einen einzigen Wert geben kann.
@@ -24,20 +25,32 @@ class Exercise_3c(spark: SparkSession, changeRecords: Dataset[ChangeRecord]) {
    *         That means for all values v in the returned map, the following must hold: v.size > 1.
    */
   def execute():Map[(String,String,Int,Timestamp),Seq[String]] = {
-    changeRecords.show()
-    var firstPart = changeRecords.groupBy($"tableId",$"attributeName",$"entityId",$"timestamp")
+    //changeRecords.show()
+    var result = changeRecords.groupBy($"tableId",$"attributeName",$"entityId",$"timestamp")
       .agg(collect_list($"newValue") as "newValues")
-      .filter($"newValues.size" > 1)
+      .map(x => (x.getString(0), x.getString(1), x.getInt(2), x.getTimestamp(3), x.getSeq[String](4), x.getSeq[String](4).size))
+      .filter(x => x._6 > 1)
+      .map(x => ((x._1, x._2, x._3, x._4), x._5))
       .collect()
-    firstPart.foreach(println)
+
+    result.toMap[(String, String, Int, Timestamp), Seq[String]]
+
+      
     // var result = firstPart.map(row => Map((row.getString(0),row.getString(1),row.getInt(2),row.getTimestamp(3)) -> (row.getSeq[String](4)))
     //   .collect()
     //   .toMap
-    Map()
+    //firstPart.show()
+    //Map()
   }
 
   def collect_list(col: org.apache.spark.sql.Column): org.apache.spark.sql.Column = {
     org.apache.spark.sql.functions.collect_list(col)
   }
 
+  // def countNumbers(col: org.apache.spark.sql.Column): org.apache.spark.sql.Column = {
+  //   col.apply("count")
+
+  //   }
+    
+  // }
 }

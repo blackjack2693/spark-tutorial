@@ -12,7 +12,7 @@ object DBSIISparkExerciseMain extends App{
   val pathToData = "/Users/Johann/Documents/GitHub/spark-tutorial/Test_Input_Spark"//args(0)
   val numCores = 4//args(1).toInt
   val numShufflePartitions = 8
-  println(pathToData)
+  //println(pathToData)
   val sparkBuilder = SparkSession
     .builder()
     .appName("SparkTutorial")
@@ -30,13 +30,14 @@ object DBSIISparkExerciseMain extends App{
   val res3a = new Exercise_3a(spark,changeRecords).execute()
   val res3b = new Exercise_3b(spark,changeRecords).execute()
   val res3c = new Exercise_3c(spark,changeRecords).execute()
-  //val res3d = new Exercise_3d(spark,changeRecords).execute()
+  val res3d = new Exercise_3d(spark,changeRecords).execute()
 
   val resultChecker = new ResultChecker(spark)
   resultChecker.checkExercise1Result(res3a,"data/exercise1.csv")
   //println(res3b)
   resultChecker.checkExercise2Result(res3b,"data/exercise2.csv")
+  //println(res3c)
   resultChecker.checkExercise3Result(res3c,"data/exercise3.json")
-  //resultChecker.checkExercise4Result(res3d,"data/exercise4.json")
+  resultChecker.checkExercise4Result(res3d,"data/exercise4.json")
 
 }

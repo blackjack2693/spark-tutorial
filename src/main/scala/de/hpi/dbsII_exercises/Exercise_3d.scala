@@ -23,7 +23,10 @@ class Exercise_3d(spark: SparkSession, changeRecords: Dataset[ChangeRecord]) {
    *         Value: a sequence of all attributes (represented as tuples in the form of (tableID,attrID) ), that belong to this change-signature
    */
   def execute():Map[Seq[Timestamp],Seq[(String,String)]] = {
-    ???
+    // changeRecords.groupByKey(x => x.changeSignature)
+    //   .mapGroups((key,value) => (key,value.map(x => (x.tableID,x.attributeName)).distinct))
+    //   .collectAsMap()
+    Map()
   }
 
 }
